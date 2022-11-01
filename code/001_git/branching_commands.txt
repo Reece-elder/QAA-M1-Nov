@@ -1,0 +1,26 @@
+git branch: Outputs all branches in this repo, the current branch is *
+
+git branch <name>: Creates a new branch
+
+git checkount <name>: Sets this branch as the current branch
+
+git checkout -b <name>: Sets this branch as current branch, and creates it 
+
+git branch -d <name> : deletes the branch of this name
+
+cd: change directory
+cd .. : go back one directory
+cd <directory name> : navigates to that directory
+
+ls : Lists files in directory
+ls -a : lists all files including hidden ones 
+
+Exercise: 
+Using Feature Branch Model add a Dev branch and push this up to GitHub. 
+
+Create branches to push up to github the following files
+branch1.js
+branch2.css
+branch3.py 
+
+Each branch should be checking out from dev 
