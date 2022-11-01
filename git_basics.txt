@@ -1,0 +1,32 @@
+clear: clears the console
+touch: Changes the timestamp (creates a file of this name)
+ls: Lists current files
+
+git add <file name>: adds file to staging area
+
+git status: Tells us the status of our git
+
+vim <filename>: Opens a vim text editor
+*press i*: enter insert mode
+*esc*: exit insert mode
+*:wq*: exits vim
+
+git commit -m "commit message": Commits the changes and names 
+
+git push: push commits to github
+
+Exercise: 
+Within your folder create the following files: 
+    file.java
+    file.cs
+    file1.txt
+    File2.txt
+
+Create commits for the following: 
+- Add file.java
+- Add all other files
+- Modify file1.txt
+- Deletes file2.txt
+
+Push commits up to GitHub
+
