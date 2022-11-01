@@ -3,6 +3,10 @@ touch: Changes the timestamp (creates a file of this name)
 ls: Lists current files
 
 git add <file name>: adds file to staging area
+git add . : adds all files here
+git add *.js: adds all js files
+
+git restore --stage . : removes all files from staging area 
 
 git status: Tells us the status of our git
 
