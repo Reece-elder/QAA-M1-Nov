@@ -1,0 +1,18 @@
+Logging, reverting and resetting 
+
+git log: Logs out all of the commits that have been made within this repo
+
+git log --oneline: displays the same but simplified
+
+git log --oneline --graph: displays graphically
+
+git pull: pulls my changes and updates from my GitHub Repo 
+
+Reverting - Pushing the state of the repo back to a previous commit AND KEEPING the commit history (Undo)
+
+git revert <id> -m "commit message"
+
+Reverting doesn't always work like you expect.. 
+
+Resets are destructive and eliminate previous commits.. These can go wrong and break your repo 
+git reset --hard <id>

@@ -1,0 +1,31 @@
+# When working on Yaml files they may end in .yaml OR .yml
+
+# Yaml file to hold cafe orders from QABucks
+
+
+# Only one order, which isn't indicative of a cafe
+# To indent multiple lines at the same time CTRL + ]
+orders:
+- drink: Salted Caramel Latte
+  size: medium
+  whipped_cream: true
+  espresso_shots: 2
+  name:
+    first_name: John
+    last_name: Cena
+
+- drink: Vanilla Latte
+  size: large
+  whipped_cream: true
+  espresso_shots: 2
+  name:
+    first_name: John
+    last_name: Cena
+    
+- drink: Vanilla Latte
+  size: large
+  whipped_cream: true
+  espresso_shots: 2
+  name:
+    first_name: John
+    last_name: Cena
