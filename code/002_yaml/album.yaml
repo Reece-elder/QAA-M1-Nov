@@ -1,0 +1,29 @@
+albums: 
+- artist: 
+    main_artist: Rob Pajama
+    feat: [Duck Honeybee, No Belles]
+  album_name: Doctor in the House
+  year_released: 2019
+  rating: 7
+  runtime: "13:18"
+  genre: Electronic Music
+  songs:
+  - name: going magnet
+    runtime: "02:59"
+  - name: automatic faith
+    runtime: "02:01"
+
+  - artist: 
+        main_artist: Figment of Ruins
+        feat: [Duck Honeybee, No Belles]
+    album_name: Doctor in the House
+    year_released: 2019
+    rating: 7
+    runtime: "13:18"
+    genre: Electronic Music
+    songs:
+      - name: going magnet
+        runtime: "02:59"
+
+      - name: automatic faith
+        runtime: "02:01"
